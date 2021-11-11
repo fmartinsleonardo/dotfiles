@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fmartins.leonardo@gmail.com
+	name = Leonardo Martins
